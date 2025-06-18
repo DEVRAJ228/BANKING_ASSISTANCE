@@ -1,0 +1,80 @@
+{
+  "pmjdy": {
+    "title": "Pradhan Mantri Jan Dhan Yojana Application",
+    "fields": [
+      "Full Name",
+      "Father's Name",
+      "Date of Birth",
+      "Gender",
+      "Address",
+      "Village/Town",
+      "District",
+      "State",
+      "Pincode",
+      "Aadhaar Number",
+      "Mobile Number"
+    ],
+    "notes": [
+      "Zero balance savings account",
+      "Accidental insurance cover of ₹2 lakh",
+      "Overdraft facility up to ₹10,000"
+    ]
+  },
+  "mudra": {
+    "title": "Pradhan Mantri Mudra Yojana Application",
+    "fields": [
+      "Applicant Name",
+      "Business Name",
+      "Business Address",
+      "Business Type",
+      "Years in Operation",
+      "Aadhaar Number",
+      "PAN Number",
+      "Loan Amount Required",
+      "Purpose of Loan"
+    ],
+    "notes": [
+      "Loans up to ₹10 lakh for non-farm enterprises",
+      "Shishu: Loans up to ₹50,000",
+      "Kishor: Loans from ₹50,001 to ₹5 lakh",
+      "Tarun: Loans from ₹5,00,001 to ₹10 lakh"
+    ]
+  },
+  "kcc": {
+    "title": "Kisan Credit Card Application",
+    "fields": [
+      "Farmer Name",
+      "Father/Husband Name",
+      "Address",
+      "Land Details (Survey No)",
+      "Total Land Area (Acres)",
+      "Crops Grown",
+      "Season",
+      "Aadhaar Number",
+      "Mobile Number",
+      "Required Credit Limit"
+    ],
+    "notes": [
+      "Coverage for crop production needs",
+      "Interest subvention available",
+      "ATM-enabled card facility"
+    ]
+  },
+  "pmsby": {
+    "title": "Pradhan Mantri Suraksha Bima Yojana Enrollment",
+    "fields": [
+      "Account Holder Name",
+      "Bank Account Number",
+      "IFSC Code",
+      "Aadhaar Number",
+      "Mobile Number",
+      "Nominee Name",
+      "Nominee Relationship"
+    ],
+    "notes": [
+      "Accidental death/disability cover",
+      "Premium: ₹20 per annum",
+      "Auto-debit facility available"
+    ]
+  }
+}
