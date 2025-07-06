@@ -6,10 +6,9 @@ LANGUAGES = {
     2: ('ta', 'தமிழ்'),
     3: ('te', 'తెలుగు'),
     4: ('bn', 'বাংলা'),
-    5: ('mr', 'मराठी'),
-    6: ('gu', 'ગુજરાતી'),
-    7: ('kn', 'ಕನ್ನಡ'),
-    8: ('ml', 'മലയാളം')
+    5: ('gu', 'ગુજરાતી'),
+    6: ('kn', 'ಕನ್ನಡ'),
+    7: ('ml', 'മലയാളം')
 }
 
 def select_language():
@@ -21,10 +20,10 @@ def select_language():
     
     while True:
         try:
-            choice = int(input("Enter choice (1-8): "))
-            if 1 <= choice <= 8:
+            choice = int(input("Enter choice (1-7): "))
+            if 1 <= choice <= 7:
                 return LANGUAGES[choice][0]
-            print("Invalid choice! Please enter 1-8")
+            print("Invalid choice! Please enter 1-7")
         except ValueError:
             print("Please enter a number")
 
