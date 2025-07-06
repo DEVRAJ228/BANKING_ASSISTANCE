@@ -10,8 +10,10 @@
 ```bash
 pip install -r requirements.txt
 ```
+2. Copy the path of language from the font folder to the code
 
-2. Run the application:
+
+3. Run the application:
 ```bash
 python src/main.py
 ```
