@@ -1,6 +1,6 @@
 # BANKING_ASSISTANCE
 ## Solve Banking Problems in Your Language
-- Banking services in 8 Indian languages
+- Banking services in 7 Indian languages
 - Generate bank forms instantly
 - Check fraud numbers
 - Learn banking basics
@@ -22,4 +22,4 @@ python src/main.py
 - Generate PMJDY, Mudra Loan, KCC forms
 - Check phone numbers against fraud database
 - Financial literacy quizzes
-- Supports: हिंदी, தமிழ், తెలుగు, বাংলা, मराठी, ગુજરાતી, ಕನ್ನಡ, മലയാളം
+- Supports: हिंदी, தமிழ், తెలుగు, বাংলা, ગુજરાતી, ಕನ್ನಡ, മലയാളം
