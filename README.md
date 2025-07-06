@@ -10,7 +10,7 @@
 ```bash
 pip install -r requirements.txt
 ```
-2. Copy the path of language from the font folder to the code
+2. Copy the path of language from the font folder to the code in 'src' folder 
 
 
 3. Run the application:
