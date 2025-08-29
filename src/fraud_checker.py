@@ -3,7 +3,7 @@ import pandas as pd
 from translator import translate_text
 
 def load_fraud_database():
-    """Load fraud database from CSV"""
+    #Load fraud database from CSV
     try:
         return pd.read_csv('../data/fraud_database.csv')
     except:
